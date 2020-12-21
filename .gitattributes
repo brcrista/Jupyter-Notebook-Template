@@ -1,0 +1,4 @@
+* text=auto
+
+# Jupyter notebooks are generated with LF endings
+*.ipynb text eol=lf

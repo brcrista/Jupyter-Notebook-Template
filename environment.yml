@@ -1,0 +1,13 @@
+name: environment-name
+channels:
+  - conda-forge
+dependencies:
+  - ipython
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pytest
+  - scikit-learn
