@@ -15,7 +15,7 @@ conda env create -f environment.yml
 After doing this once, activate the environment with:
 
 ```bash
-conda environment-name
+conda activate environment-name
 ```
 
 (**Note:** conda environments don't work in PowerShell.)
